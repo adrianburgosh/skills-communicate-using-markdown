@@ -10,3 +10,7 @@ function log() {
 ```
 git init
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my porfolio
+- [ ] Introduce myself to the world
